@@ -2,7 +2,7 @@
   "name": "redux-little-router",
   "version": "14.2.3",
   "description": "A barebones routing solution for Redux applications.",
-  "main": "lib/index.js",
+  "main": "dist/redux-little-router.min.js",
   "module": "es/index.js",
   "jsnext:main": "es/index.js",
   "scripts": {
